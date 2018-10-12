@@ -1,0 +1,1 @@
+worker: python gaggle_bot.py
